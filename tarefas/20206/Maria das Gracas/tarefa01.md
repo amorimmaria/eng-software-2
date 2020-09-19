@@ -11,6 +11,10 @@
 
 O TCC Theme Ideas é uma plataforma web que tem como objetivo ajudar alunos de graduação ou de cursos em que precise desenvolver Trabalho de Conclusão de Curso(TCC) e que tenham dificuldades em encontrar um tema.
 
+# Equipe 
+- Jaine Senna
+- Maria das Graças
+
 
 
 
